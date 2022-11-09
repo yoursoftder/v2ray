@@ -283,3 +283,5 @@ com.azure.authenticator
 com.vivo.contentcatcher
 com.yozo.vivo.office
 com.blockchainvault
+com.xtc.originwidget
+com.vivo.safecenter
