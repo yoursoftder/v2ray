@@ -316,5 +316,6 @@ com.vivo.puresearch
 com.vivo.gallery
 com.vivo.dr
 com.vivo.bsptest
+com.baidu.input_vivo
 
 
