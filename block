@@ -119,7 +119,7 @@ domain:dnkeeper.platform.dbankcloud.cn,
 domain:oauth-login-drcn.platform.dbankcloud.com,
 domain:metrics1.data.hicloud.com,
 domain:metrics1-drcn.dt.dbankcloud.cn,
-domain:hwid-drcn.platform.hicloud.com;
+domain:hwid-drcn.platform.hicloud.com,
 domain:zhihu-web-analytics.zhihu.com,
 domain:fms.ipinyou.com,
 103.211.221.21,
