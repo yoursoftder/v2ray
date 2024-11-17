@@ -1,6 +1,7 @@
 geosite:category-ads-all,
 hosts:a.com 192.168.2.88,
 hosts:b.com 192.168.2.88,
+domain:astrategy.beacon.qq.com,
 domain:dc.heytapmobi.com,
 domain:heytapdownload.com,
 domain:cloudkit-api-cn.heytapmobi.com,
