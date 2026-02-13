@@ -1,5 +1,6 @@
 ||so.com^
 ||360.com^
+||editcookie.com^
 ||vivo.com^
 ||360.cn^
 ||dns.wechat.com^
